@@ -4,9 +4,7 @@ A product management plugin for federal government technology teams, primarily d
 
 ## Installation
 
-```
-claude plugins add knowledge-work-plugins/govtech-product-management
-```
+See marketplace and plugin installation for Cowork and Claude Code in the root level [README](../README.md)
 
 ## What It Does
 
