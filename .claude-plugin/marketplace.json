@@ -1,0 +1,16 @@
+{
+  "name": "govtech-pm",
+  "owner": {
+    "name": "nmata010"
+  },
+  "metadata": {
+    "description": "Product management tools for federal digital services"
+  },
+  "plugins": [
+    {
+      "name": "govtech-product-management",
+      "source": "./govtech-product-management",
+      "description": "Write specs mapped to contract scope, plan roadmaps around periods of performance, track metrics against QASP targets, and navigate procurement, compliance, and government stakeholder structures."
+    }
+  ]
+}

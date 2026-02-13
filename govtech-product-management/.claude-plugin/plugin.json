@@ -1,0 +1,8 @@
+{
+  "name": "govtech-product-management",
+  "version": "1.0.0",
+  "description": "Product management for federal digital services. Write specs mapped to contract scope, plan roadmaps around periods of performance, track metrics against QASP targets, and navigate procurement, compliance, and government stakeholder structures.",
+  "author": {
+    "name": "github.com/nmata010"
+  }
+}
