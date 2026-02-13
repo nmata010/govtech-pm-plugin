@@ -98,3 +98,9 @@ Connect your project management and communication tools for the best experience.
 
 **Additional options:**
 - See [CONNECTORS.md](CONNECTORS.md) for alternative tools in each category
+
+## License
+
+Apache 2.0 — see [LICENSE](LICENSE) for details.
+
+This plugin is adapted from Anthropic's [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins), licensed under Apache 2.0.

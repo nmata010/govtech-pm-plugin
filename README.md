@@ -44,3 +44,9 @@ Update your project's `.claude/settings.json` so team members are prompted to in
 Product management for federal digital services. Covers the full PM workflow within the federal acquisition lifecycle: writing specs mapped to contract scope, managing roadmaps around periods of performance, communicating with government stakeholders, synthesizing user research under PRA constraints, analyzing competitors using federal procurement data, and tracking metrics against QASP targets.
 
 See the [plugin README](govtech-product-management/README.md) for full documentation including commands, skills, example workflows, and data source connectors.
+
+## License
+
+Apache 2.0 — see [LICENSE](LICENSE) for details.
+
+This plugin is adapted from Anthropic's [knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins), licensed under Apache 2.0.
