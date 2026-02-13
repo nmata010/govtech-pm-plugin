@@ -4,7 +4,18 @@ A Claude Code plugin marketplace containing product management tools for federal
 
 ## Installation
 
-### Add the marketplace
+### Cowork (Claude Desktop)
+
+1. Open Claude for Desktop and switch to **Cowork**
+2. Click **Customize with plugins**
+3. In Browse Plugins, click the dropdown and select **Add marketplace from GitHub**
+4. Enter `<YOUR_GITHUB_ORG/REPO_URL>` and click **Sync** — this loads the available plugins
+5. Select **Govtech Product Management** from the list and click **Install**
+6. Use any of the slash commands to get started
+
+### Claude Code
+
+#### Add the marketplace
 
 ```
 /plugin marketplace add <YOUR_GITHUB_ORG/REPO>
